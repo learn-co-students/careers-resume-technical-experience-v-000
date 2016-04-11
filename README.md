@@ -4,12 +4,6 @@ Without a doubt, the technical experience section is one of the most important p
 
 But don't be nervous, it's also the place where you get to show-off the application(s) you've built and display your technical chops.
 
-## Objectives
-
-After this lesson, you should be able to:
-- Succinctly express the purpose of your application and what problem(s) it solves (like a mini elevator pitch).
-- Describe how you (and your team) built the app using specific technologies.
-
 ## What Technical People Care About
 
 In the land of programming, objectivity trumps subjectivity and specificity reigns supreme. That is to say, technical folk value specific contributions to a project and how those contributions played their part in the overall system.
@@ -25,7 +19,7 @@ This applies to solo and group projects. If you collaborated with others, make s
 
 ### Structure
 
-In your `technical section/applications built`, the first thing you'll want to mention is the name of your app and a concise 1-2 line summary of your application. This is the sell so don't be afraid to spice it up a little.
+In your `Technical Experience` section, the first thing you'll want to mention is the name of your app and a concise 1-2 line summary of your application. This is the sell so don't be afraid to spice it up a little.
 
 ### Examples
 Here are some noteworthy examples from Flatiron grads who went on to create their own companies.
@@ -80,10 +74,6 @@ Take a few minutes and reflect on the last application you built. Ask yourself t
 - What problem did it solve? 
 - What technologies did you use?
 
-Now write a few bullet points answering those questions and save them. They'll come in handy very soon.
-
-
-
-
+Now, in your resume, adapt this information to the Technical Experience section for each of the applications you built or were involved in building. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Careers Resume Technical Experience</a> on Learn.co and start learning to code for free.</p>
