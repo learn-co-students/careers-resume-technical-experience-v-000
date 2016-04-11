@@ -45,14 +45,13 @@ Each bullet point follows a general pattern:
 - Used OMniAuth for OAuth authentication with Facebook/Github
 - Scraped Craigslist with Nokogori
 
-> Notice we leave the subjective language at the door. Nothing like:
+
+Notice we leave the subjective language at the door. Nothing like:
 
 - Used BootStrap and custom CSS to design a *beautiful* front end
 - Scraped Craigslist *very quickly* with Nokogiri
 
-> No adorning adjectives or qualifiers here. 
-
-**It might be dry but it's also clear. That's what counts.**
+Instead, there are no adorning adjectives or qualifiers here. It might be dry but it's also clear. That's what counts.
 
 ## End Result
 
