@@ -13,7 +13,7 @@ When you describe your work, you always want to pinpoint **what technologies** y
 - Did you design/build the front end of your app? What technologies did you use? Likely HTML, CSS, and jQuery.
 - Did you write all the API functionality using Ruby on Rails and the MVC pattern?
 - Maybe you designed the database schema and coded all the DB logic. Did you use ActiveRecord and SQLite? Postgres?
-- Did you make use of interesting/complex Gems? PG, Nokogori, and OAuth are typical fan favorites.
+- Did you make use of interesting/complex Gems? PG, Nokogiri, and OAuth are typical fan favorites.
 
 This applies to solo and group projects. If you collaborated with others, make sure you have a clear understanding of all components of the app including the features your partners built, what technologies they chose, and why. You’ll need to know this when it comes time to interview.
 
@@ -76,3 +76,5 @@ Take a few minutes and reflect on the last application you built. Ask yourself t
 Now, in your resume, adapt this information to the Technical Experience section for each of the applications you built or were involved in building. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Careers Resume Technical Experience</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Technical Experience on Your Resume</a> on Learn.co and start learning to code for free.</p>
