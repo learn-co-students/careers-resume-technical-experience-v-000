@@ -75,6 +75,4 @@ Take a few minutes and reflect on the last application you built. Ask yourself t
 
 Now, in your resume, adapt this information to the Technical Experience section for each of the applications you built or were involved in building. 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Careers Resume Technical Experience</a> on Learn.co and start learning to code for free.</p>
-
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Technical Experience on Your Resume</a> on Learn.co and start learning to code for free.</p>
