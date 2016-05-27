@@ -67,12 +67,12 @@ And that's it folks.
 
 ## Assignment 
 
-Take a few minutes and reflect on the last application you built. Ask yourself the questions posed earlier:
+Nothing specific to submit for this lesson. However, take a few minutes and reflect on the last application you built. Ask yourself the questions posed earlier:
 
-- Why did you build it?
+- Why did you build what you built?
 - What problem did it solve? 
 - What technologies did you use?
 
-Now, in your resume, adapt this information to the Technical Experience section for each of the applications you built or were involved in building. 
+Now, in your first resume draft, adapt this information to the Technical Experience section for each of the applications you built or were involved in building. You'll review this section with your coach.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Technical Experience on Your Resume</a> on Learn.co and start learning to code for free.</p>
