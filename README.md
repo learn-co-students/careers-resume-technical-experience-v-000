@@ -43,7 +43,7 @@ Each bullet point follows a general pattern:
 - Designed the database schema and configured ActiveRecord associations
 - Configured ActionMailer to send confirmation emails
 - Used OMniAuth for OAuth authentication with Facebook/Github
-- Scraped Craigslist with Nokogori
+- Scraped Craigslist with Nokogiri
 
 
 Notice we leave the subjective language at the door. Nothing like:
@@ -76,3 +76,5 @@ Nothing specific to submit for this lesson. However, take a few minutes and refl
 Now, in your first resume draft, adapt this information to the Technical Experience section for each of the applications you built or were involved in building. You'll review this section with your coach.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Technical Experience on Your Resume</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Technical Experience on Your Resume</a> on Learn.co and start learning to code for free.</p>
