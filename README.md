@@ -43,7 +43,7 @@ Each bullet point follows a general pattern:
 - Designed the database schema and configured ActiveRecord associations
 - Configured ActionMailer to send confirmation emails
 - Used OMniAuth for OAuth authentication with Facebook/Github
-- Scraped Craigslist with Nokogori
+- Scraped Craigslist with Nokogiri
 
 
 Notice we leave the subjective language at the door. Nothing like:
