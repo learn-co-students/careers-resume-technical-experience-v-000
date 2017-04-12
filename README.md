@@ -65,9 +65,9 @@ If you put it all together, you'll end up with something like this:
 
 And that's it folks.
 
-## Assignment 
+## Next Steps 
 
-Nothing specific to submit for this lesson. However, take a few minutes and reflect on the last application you built. Ask yourself the questions posed earlier:
+Take a few minutes and reflect on the last application you built. Ask yourself the questions posed earlier:
 
 - Why did you build what you built?
 - What problem did it solve? 
