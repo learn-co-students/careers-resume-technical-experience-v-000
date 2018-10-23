@@ -21,6 +21,7 @@ This applies to solo and group projects. If you collaborated with others, make s
 
 In your Technical Projects section, the first thing you'll want to mention is the name of your app and a concise one-line summary of your application. This is the sell, so don't be afraid to spice it up a little.
 
+
 **Examples of One Line Project Summaries**
 
 Here are some noteworthy examples of one-line project summaries from Flatiron grads who went on to create their own companies.
@@ -30,6 +31,7 @@ The best way to create a status page for your app or website.
 
 *GlossGenius*
 A smart, automated personal assistant software product for beauty professionals.
+
 
 **Descriptive Bullets for Projects**
 
@@ -66,9 +68,11 @@ Notice we leave the subjective language at the door. Nothing like:
 
 Instead, there are no adorning adjectives or qualifiers here. We don’t want opinions; just the facts on how you built each project. That's what counts.
 
+
 **GitHub Link(s) and Video Demo**
 
 In addition, you will want to include hyperlinks to your GitHub that show the actual code written for this application, as well as, a video demo to show application functionality.
+
 
 **Creating a Strong Project Video Demo**
 
@@ -87,9 +91,11 @@ Many students mention that they like using Quicktime (for Mac) or YouTube’s [s
 
 **TIP:** While building your projects always be mindful of their visual elements, as that is the first aspect/impression that an employer will have of your capabilities as a developer. If a project functions well but is visually sloppy or not pleasing to the eye, this will quickly negate your candidacy. Especially if you will be pursuing front-end or UI/UX roles, the design and aesthetic elements of your projects will be key, and will also enable you to distinguish yourself from other candidates
 
+
 **End Result" A Complete Technical Project**
 
 If you put it all together, you'll end up with something like this:
+
 
 **Spot Show** - [GitHub FrontEnd] | [GitHub BackEnd] | [Demo]
 *A live concert discovery tool for any artist you follow or listen to on Spotify*
