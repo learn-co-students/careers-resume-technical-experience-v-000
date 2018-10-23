@@ -9,6 +9,7 @@ But don't be nervous, it's also the place where you get to show off the applicat
 In the land of programming, objectivity trumps subjectivity and specificity reigns supreme. That is to say, technical folk value specific contributions to a project and how those contributions played their part in the overall system.
 
 When you describe your work, you always want to pinpoint what technologies you used and why.
+
 - Did you design/build the front end of your app? What technologies did you use? Likely HTML, CSS, and jQuery.
 - Did you write all the API functionality using Ruby on Rails and the MVC pattern?
 - Maybe you designed the database schema and coded all the DB logic. Did you use ActiveRecord and SQLite? Postgres?
@@ -47,11 +48,15 @@ Next, you'll want to describe your (and your teammates’) contributions. Here, 
 
 Each bullet point follows a general pattern, with the following components:
 
+
 - [action verb] [specific technology] [action verb] [specific purpose]
+
 
 NOTE: The specific purpose component is a critical component of each bullet, especially given that each of your projects was created to serve a unique purpose and audience/end user. In turn, your bullets should look unique from each other. Even if you used similar technologies or frameworks across different projects, each project has its own features and functionalities. Take the opportunity to use each bullet to both own and educate the reader on the unique aspects of each project that they should know about, at a glance. Avoid having several bullets across various apps with vague and/or the exact same wording. Instead, 'paint a picture' of exactly what specific functionality a technology enables in an app, unique to that app.
 
+
 Students have told us that optimizing their project bullets this way helps them feel more confident in talking about what they built and WHY they utilized certain technologies/methods...which will help you build your technical communication skills in general!
+
 
 Here is an example of a project that utilizes the concepts outlined above:
 
@@ -98,12 +103,19 @@ If you put it all together, you'll end up with something like this:
 
 
 **Spot Show** - [GitHub FrontEnd] | [GitHub BackEnd] | [Demo]
+
 *A live concert discovery tool for any artist you follow or listen to on Spotify*
+
 • Developed a Rails API backend with endpoints for artists, venues and events.
+
 • Utilized Spotify and Songkick API’s to pull and parse data on upcoming concerts in NYC based on user favorites.
+
 • Implemented user interface employing React and Redux with Semantic-React for styling.
+
 • Scraped Yelp API to provide attraction information for city locations.
+
 • Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.
+
 
 And that's it folks.
 
