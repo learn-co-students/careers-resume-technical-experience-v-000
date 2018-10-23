@@ -102,18 +102,13 @@ Many students mention that they like using Quicktime (for Mac) or YouTube’s [s
 If you put it all together, you'll end up with something like this:
 
 
+
 **Spot Show** - [GitHub FrontEnd] | [GitHub BackEnd] | [Demo]
-
 *A live concert discovery tool for any artist you follow or listen to on Spotify*
-
 • Developed a Rails API backend with endpoints for artists, venues and events.
-
 • Utilized Spotify and Songkick API’s to pull and parse data on upcoming concerts in NYC based on user favorites.
-
 • Implemented user interface employing React and Redux with Semantic-React for styling.
-
 • Scraped Yelp API to provide attraction information for city locations.
-
 • Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.
 
 
