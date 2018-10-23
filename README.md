@@ -60,16 +60,16 @@ Students have told us that optimizing their project bullets this way helps them 
 
 Here is an example of a project that utilizes the concepts outlined above:
 
-• Developed a Rails API backend with endpoints for artists, venues and events.
-• Utilized Spotify and Songkick API’s to pull and parse data on upcoming concerts in NYC based on user favorites.
-• Implemented user interface employing React and Redux with Semantic-React for styling.
-• Scraped Yelp API to provide attraction information for city locations.
-• Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.
+- Developed a Rails API backend with endpoints for artists, venues and events.
+- Utilized Spotify and Songkick API’s to pull and parse data on upcoming concerts in NYC based on user favorites.
+- Implemented user interface employing React and Redux with Semantic-React for styling.
+- Scraped Yelp API to provide attraction information for city locations.
+- Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.
 
 Notice we leave the subjective language at the door. Nothing like:
 
-• Implemented beautiful user interface employing React and Redux with Semantic-React for styling.
-• Scraped Yelp API very quickly to provide attraction information for city locations.
+- Implemented beautiful user interface employing React and Redux with Semantic-React for styling.
+- Scraped Yelp API very quickly to provide attraction information for city locations.
 
 Instead, there are no adorning adjectives or qualifiers here. We don’t want opinions; just the facts on how you built each project. That's what counts.
 
@@ -97,19 +97,17 @@ Many students mention that they like using Quicktime (for Mac) or YouTube’s [s
 **TIP:** While building your projects always be mindful of their visual elements, as that is the first aspect/impression that an employer will have of your capabilities as a developer. If a project functions well but is visually sloppy or not pleasing to the eye, this will quickly negate your candidacy. Especially if you will be pursuing front-end or UI/UX roles, the design and aesthetic elements of your projects will be key, and will also enable you to distinguish yourself from other candidates
 
 
-**End Result" A Complete Technical Project**
+**End Result: A Complete Technical Project**
 
 If you put it all together, you'll end up with something like this:
 
-
-
 **Spot Show** - [GitHub FrontEnd] | [GitHub BackEnd] | [Demo]
 *A live concert discovery tool for any artist you follow or listen to on Spotify*
-• Developed a Rails API backend with endpoints for artists, venues and events.
-• Utilized Spotify and Songkick API’s to pull and parse data on upcoming concerts in NYC based on user favorites.
-• Implemented user interface employing React and Redux with Semantic-React for styling.
-• Scraped Yelp API to provide attraction information for city locations.
-• Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.
+- Developed a Rails API backend with endpoints for artists, venues and events.
+- Utilized Spotify and Songkick API’s to pull and parse data on upcoming concerts in NYC based on user favorites.
+- Implemented user interface employing React and Redux with Semantic-React for styling.
+- Scraped Yelp API to provide attraction information for city locations.
+- Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.
 
 
 And that's it folks.
