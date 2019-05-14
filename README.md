@@ -2,13 +2,16 @@
 
 Without a doubt, the Technical Projects section is one of the most important parts of your resume (in fact this section will take up about ⅔ of your resume!). Interviewers will read this section carefully to gauge your skill set and determine how you'll be able to contribute to the team. In any hiring situation, interviewers want to know that you actually **can** do the job.
 
-But don't be nervous, it's also the place where you get to show off the applications you've built and display your technical chops.
+But don't be nervous, it's also the place where you get to show off the projects you've built and display your technical chops.
 
 ## What Technical People Care About
 
-In the land of programming, objectivity trumps subjectivity and specificity reigns supreme. That is to say, technical folk value specific contributions to a project and how those contributions played their part in the overall system.
+In the land of technology, objectivity trumps subjectivity and specificity reigns supreme. That is to say, technical folk value specific contributions to a project and how those contributions played their part in the overall system.
 
 When you describe your work, you always want to pinpoint what technologies you used and why.
+
+
+For software engineering students:
 
 - Did you design/build the front end of your app? What technologies did you use? Likely HTML, CSS, and jQuery.
 - Did you write all the API functionality using Ruby on Rails and the MVC pattern?
@@ -16,22 +19,40 @@ When you describe your work, you always want to pinpoint what technologies you u
 - Did you make use of interesting/complex Gems? PG, Nokogiri, and OAuth are typical fan favorites.
 - What unique/impressive features or functionalities of the app do these technologies enable?
 
-This applies to solo and group projects. If you collaborated with others, make sure you have a clear understanding of all components of the app, including the features your partners built, what technologies they chose, and why. You’ll need to know this when it comes time to interview.
+For data science students:
+
+- What was the size of the dataset used in the project?
+- Did you collect data using API calls and web-scraping?
+- Did you clean/manipulate data with Python for analysis?
+- Did you train a wide range of shallow- and deep-learning models? Which ones?
+- Did you build a web dashboard, using Dash and Flask, to display data visualizations and patterns?
+- What unique/impressive features or functionalities of the project do these technologies enable?
+
+
+Highlighting technology details like above applies to both solo and group projects. If you collaborated with others, make sure you have a clear understanding of all components of the project, including the features your partners built, what technologies they chose, and why. You’ll need to know this when it comes time to interview.
 
 ## Structure
 
-In your Technical Projects section, the first thing you'll want to mention is the name of your app and a concise one-line summary of your application. This is the sell, so don't be afraid to spice it up a little.
+In your Technical Projects section, the first thing you'll want to mention is the name of your project and a concise one-line summary of it. This is the sell, so don't be afraid to spice it up a little.
 
 
 **Examples of One Line Project Summaries**
 
-Here are some noteworthy examples of one-line project summaries from Flatiron grads who went on to create their own companies.
+Here are some noteworthy examples of one-line project summaries from Flatiron grads.
 
-*StatusPage*
-The best way to create a status page for your app or website.
 
-*GlossGenius*
-A smart, automated personal assistant software product for beauty professionals.
+**Solar System**
+*A virtual reality app for astrophiles to explore the solar system in VR*
+
+**GlossGenius**
+*An automated personal assistant software product for beauty professionals*
+
+**‘Fake News’ Classifier**
+*Supervised classification algorithm to identify deliberately misleading news articles, achieving 94% testing accuracy*
+
+**Pitcher Injuries**
+*Predicted whether Major League Baseball pitchers will suffer injuries based on prior year performance*
+
 
 
 **Descriptive Bullets for Projects**
@@ -42,7 +63,7 @@ Take a few minutes and reflect on the last application you built. Ask yourself t
 - What problem did it solve?
 - What technologies did you use?
 
-Now, in your first resume draft, adapt this information to the Technical Projects section for each of the applications you built or were involved in building. You'll review this section with your coach. It can also be helpful to have a technical peer, mentor, or friend review the technical section of your resume to ensure your bullet points are articulated in the best way possible.
+Now, in your first resume draft, adapt this information to the Technical Projects section for each of the projects you built or were involved in building. You'll review this section with your coach. It can also be helpful to have a technical peer, mentor, or friend review the technical section of your resume to ensure your bullet points are articulated in the best way possible.
 
 Next, you'll want to describe your (and your teammates’) contributions. Here, you'll typically include 3-5 bullet points discussing the what & why.
 
@@ -52,13 +73,13 @@ Each bullet point follows a general pattern, with the following components:
 - [action verb] [specific technology] [action verb] [specific purpose]
 
 
-NOTE: The specific purpose component is a critical component of each bullet, especially given that each of your projects was created to serve a unique purpose and audience/end user. In turn, your bullets should look unique from each other. Even if you used similar technologies or frameworks across different projects, each project has its own features and functionalities. Take the opportunity to use each bullet to both own and educate the reader on the unique aspects of each project that they should know about, at a glance. Avoid having several bullets across various apps with vague and/or the exact same wording. Instead, 'paint a picture' of exactly what specific functionality a technology enables in an app, unique to that app.
+NOTE: The specific purpose component is a critical component of each bullet, especially given that each of your projects was created to serve a unique purpose and audience/end user. In turn, your bullets should look unique from each other. Even if you used similar technologies or frameworks across different projects, each project has its own features and functionalities. Take the opportunity to use each bullet to both own and educate the reader on the unique aspects of each project that they should know about, at a glance. Avoid having several bullets across various projects with vague and/or the exact same wording. Instead, 'paint a picture' of exactly what specific functionality a technology enables in a project, unique to that project.
 
 
 Students have told us that optimizing their project bullets this way helps them feel more confident in talking about what they built and WHY they utilized certain technologies/methods...which will help you build your technical communication skills in general!
 
 
-Here is an example of a project that utilizes the concepts outlined above:
+Here is an example of a (software engineering) project that utilizes the concepts outlined above:
 
 - Developed a Rails API backend with endpoints for artists, venues and events.
 - Utilized Spotify and Songkick API’s to pull and parse data on upcoming concerts in NYC based on user favorites.
@@ -66,7 +87,14 @@ Here is an example of a project that utilizes the concepts outlined above:
 - Scraped Yelp API to provide attraction information for city locations.
 - Utilized JSON Web Tokens and localStorage to store encrypted user information client-side.
 
-Notice we leave the subjective language at the door. Nothing like:
+Here is an example of a (data science) project that does the same:
+
+- Conducted natural language (NLP) processing with NLTK to tokenize and vectorize 25,000 articles from news outlets
+- Extracted various sentiment metrics using TextBlob and Vader to refine machine learning algorithm and identify trends
+- Employed Naïve Bayes Classifier and Logistic Regression to model probability of article reliability
+
+
+Notice that above we leave the subjective language at the door. Nothing like:
 
 - Implemented beautiful user interface employing React and Redux with Semantic-React for styling.
 - Scraped Yelp API very quickly to provide attraction information for city locations.
@@ -76,7 +104,7 @@ Instead, there are no adorning adjectives or qualifiers here. We don’t want op
 
 **GitHub Link(s) and Video Demo**
 
-In addition, you will want to include hyperlinks to your GitHub that show the actual code written for this application, as well as, a video demo to show application functionality.
+In addition, you will want to include hyperlinks to your GitHub that show the actual code written/data analysis performed for this project, as well as, a video demo (for sofware engineering students) to show project functionality.
 
 
 **Creating a Strong Project Video Demo**
@@ -116,8 +144,3 @@ And that's it folks.
 ## Resources
 - [Technical Action Verb List](https://ecs.engineering.illinois.edu/action-verbs/)
 
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Technical Experience on Your Resume</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-resume-technical-experience'>Technical Experience on Your Resume</a> on Learn.co and start learning to code for free.</p>
