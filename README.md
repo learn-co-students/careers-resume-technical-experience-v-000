@@ -36,9 +36,10 @@ Highlighting technology details like above applies to both solo and group projec
 In your Technical Projects section, the first thing you'll want to mention is the name of your project and a concise one-line summary of it. This is the sell, so don't be afraid to spice it up a little.
 
 
+
 **Examples of One Line Project Summaries**
 
-Here are some noteworthy examples of one-line project summaries from Flatiron grads.
+Here are some noteworthy examples of one-line project summaries from Flatiron grads:
 
 
 **Solar System**
