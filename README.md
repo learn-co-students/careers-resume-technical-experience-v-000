@@ -11,7 +11,7 @@ In the land of technology, objectivity trumps subjectivity and specificity reign
 When you describe your work, you always want to pinpoint what technologies you used and why.
 
 
-For software engineering students:
+**For software engineering students:**
 
 - Did you design/build the front end of your app? What technologies did you use? Likely HTML, CSS, and jQuery.
 - Did you write all the API functionality using Ruby on Rails and the MVC pattern?
@@ -19,7 +19,7 @@ For software engineering students:
 - Did you make use of interesting/complex Gems? PG, Nokogiri, and OAuth are typical fan favorites.
 - What unique/impressive features or functionalities of the app do these technologies enable?
 
-For data science students:
+**For data science students:**
 
 - What was the size of the dataset used in the project?
 - Did you collect data using API calls and web-scraping?
@@ -69,9 +69,14 @@ Next, you'll want to describe your (and your teammates’) contributions. Here, 
 
 Each bullet point follows a general pattern, with the following components:
 
+**Action Verb + Task + Result**
 
-- [action verb] [specific technology] [action verb] [specific purpose]
-
+**Action Verb** = Past/Present Tense 
+**Task** =  What did you do? What did you build? Include the technologies you used to build the app/website.
+**Result** = Go beyond telling what you did and describe how and why you did it? 
+  - What did you accomplish?  
+  - What was the result/impact of your project/work? 
+  - What was the purpose?
 
 NOTE: The specific purpose component is a critical component of each bullet, especially given that each of your projects was created to serve a unique purpose and audience/end user. In turn, your bullets should look unique from each other. Even if you used similar technologies or frameworks across different projects, each project has its own features and functionalities. Take the opportunity to use each bullet to both own and educate the reader on the unique aspects of each project that they should know about, at a glance. Avoid having several bullets across various projects with vague and/or the exact same wording. Instead, 'paint a picture' of exactly what specific functionality a technology enables in a project, unique to that project.
 
@@ -79,9 +84,8 @@ NOTE: The specific purpose component is a critical component of each bullet, esp
 Students have told us that optimizing their project bullets this way helps them feel more confident in talking about what they built and WHY they utilized certain technologies/methods...which will help you build your technical communication skills in general!
 
 
-Here is an example of a (software engineering) project that utilizes the concepts outlined above:
+**Here is an example of a (software engineering) project that utilizes the concepts outlined above:**
 
-- Developed a Rails API backend with endpoints for artists, venues and events.
 - Utilized Spotify and Songkick API’s to pull and parse data on upcoming concerts in NYC based on user favorites.
 - Implemented user interface employing React and Redux with Semantic-React for styling.
 - Scraped Yelp API to provide attraction information for city locations.
@@ -143,4 +147,5 @@ And that's it folks.
 
 ## Resources
 - [Technical Action Verb List](https://ecs.engineering.illinois.edu/action-verbs/)
+- [In demand (software engineering) skills to include in your resume, as applicable](https://www.jobscan.co/skills/software-engineer)
 
