@@ -56,7 +56,8 @@ Here are some noteworthy examples of one-line project summaries from Flatiron gr
 
 
 
-**Descriptive Bullets for Projects**
+
+### **Descriptive Bullets for Projects**
 
 Take a few minutes and reflect on the last application you built. Ask yourself the questions posed earlier:
 
