@@ -148,6 +148,6 @@ And that's it folks.
 
 
 ## Resources
-- [Technical Action Verb List](https://ecs.engineering.illinois.edu/action-verbs/)
+- [Technical Action Verb List](https://ecs.engineering.illinois.edu/files/2014/07/CSG-resume-Verbs.pdf)
 - [In demand (software engineering) skills to include in your resume, as applicable](https://www.jobscan.co/skills/software-engineer)
 
