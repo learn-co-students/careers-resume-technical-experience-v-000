@@ -126,7 +126,7 @@ A great video demo:
 
 A video demo should not be more than two minutes long or require sign up, login, or the expectation that the visitor will figure out how the app works on their own. Recruiters and employers are very busy people with little time to spare. Anything that requires extra steps and effort is a turn-off and can quickly extinguish their interest. Make it easy for them to see you as a no-brainer hire!
 
-Many students mention that they like using Quicktime (for Mac) or YouTube’s [screencast](https://lifehacker.com/record-a-screencast-with-nothing-but-youtube-1753803412)functionality to create their video demo, after which you can upload it as an ‘unlisted’ video to YouTube.
+Many students mention that they like using Quicktime (for Mac) or YouTube’s [screencast](https://lifehacker.com/record-a-screencast-with-nothing-but-youtube-1753803412) functionality to create their video demo, after which you can upload it as an ‘unlisted’ video to YouTube.
 
 **TIP:** While building your projects always be mindful of their visual elements, as that is the first aspect/impression that an employer will have of your capabilities as a developer. If a project functions well but is visually sloppy or not pleasing to the eye, this will quickly negate your candidacy. Especially if you will be pursuing front-end or UI/UX roles, the design and aesthetic elements of your projects will be key, and will also enable you to distinguish yourself from other candidates
 
